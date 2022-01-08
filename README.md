@@ -1,3 +1,7 @@
+# DEMO
+[Go to website](https://multiplecheckbox.netlify.app).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32aa836f-9668-4507-89ca-2864d76bb736/deploy-status)](https://app.netlify.com/sites/multiplecheckbox/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
